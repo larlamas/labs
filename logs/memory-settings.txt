@@ -1,0 +1,12 @@
+=== THP enabled ===
+always madvise [never]
+
+=== THP defrag ===
+always defer defer+madvise madvise [never]
+
+=== KSM ===
+0
+
+=== sysctl ===
+vm.nr_hugepages = 1024
+vm.swappiness = 0

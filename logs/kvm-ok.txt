@@ -1,0 +1,2 @@
+INFO: /dev/kvm exists
+KVM acceleration can be used

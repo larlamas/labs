@@ -1,0 +1,16 @@
+[    0.000000] Command line: BOOT_IMAGE=/vmlinuz-7.0.0-34-generic root=/dev/mapper/ubuntu--vg-ubuntu--lv ro iommu=pt
+[    0.013055] Kernel command line: BOOT_IMAGE=/vmlinuz-7.0.0-34-generic root=/dev/mapper/ubuntu--vg-ubuntu--lv ro iommu=pt
+[    0.078699] AMD-Vi: Using global IVHD EFR:0x0, EFR2:0x0
+[    0.889866] iommu: Default domain type: Passthrough (set via kernel command line)
+[    0.945260] pci 0000:00:02.0: Adding to iommu group 0
+[    0.945721] pci 0000:00:03.0: Adding to iommu group 1
+[    0.945968] pci 0000:00:04.0: Adding to iommu group 2
+[    0.946206] pci 0000:00:05.0: Adding to iommu group 3
+[    0.946488] pci 0000:00:07.0: Adding to iommu group 4
+[    0.946754] pci 0000:00:1f.0: Adding to iommu group 5
+[    0.947011] pci 0000:00:1f.1: Adding to iommu group 5
+[    0.947309] pci 0000:00:1f.2: Adding to iommu group 5
+[    0.947461] pci 0000:00:1f.4: Adding to iommu group 5
+[    0.947461] pci 0000:00:1f.5: Adding to iommu group 5
+[    0.948443] AMD-Vi: Extended features (0x40c000000940, 0xffffffffffffffff): IA HE SEV-TIO
+[    0.948877] AMD-Vi: Interrupt remapping enabled

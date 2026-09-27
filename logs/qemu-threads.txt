@@ -1,0 +1,6 @@
+    PID     TID PSR COMMAND
+   3300    3300   0 qemu-system-x86
+   3300    3301   3 qemu-system-x86
+   3300    3306   1 qemu-system-x86
+   3300    3307   2 qemu-system-x86
+   3300    3310   1 kvm-nx-lpage-re
